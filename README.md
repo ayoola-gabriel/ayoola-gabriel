@@ -14,5 +14,5 @@ I'm a Software Engineer and an Embedded Systems Engineer. I'm passionate about i
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoola-gabriel&show_icons=true&include_all_commits=true&hide_border=true" alt="Ayoola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoola-gabriel&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayoola-gabriel&show_icons=true&include_all_commits=true&hide_border=true" alt="Ayoola's itHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoola-gabriel&langs_count=8&layout=compact&hide_border=true" alt="Ayoola's GitHub stats" /> |
 | ------------- | ------------- |
